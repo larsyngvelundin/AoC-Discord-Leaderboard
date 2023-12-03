@@ -4,7 +4,7 @@ A Discord bot that fetches a private leaderboard from Advent of Code and shows i
 
 ![Screenshot of how the bot looks in action.](img/channels.png)
 
-The sorting is currently only based on the amount of stars, and tie-breakers are not implemented.
+The sorting is currently only based on the amount of stars, and tie-breakers are not implemented. And the overall code is not very good, but it does what we needed at the moment.
 
 ## Requirements:
 ### To install:
